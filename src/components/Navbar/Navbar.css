@@ -1,0 +1,23 @@
+.bg-color{
+    background-color: #FB2E86 !important;
+    width: 50px;
+}
+.search-box{
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.search-box input{
+    border: none;
+    outline: none;
+}
+
+.search-icon{
+    color: white;
+    padding: 10px;
+}
+.my-font {
+  font-family: 'Poppins', sans-serif;
+  
+}
